@@ -6,7 +6,7 @@ function App() {
     <div>
       <header>
         <p>
-          Hello, Mars. 
+          Hello, Uranus. 
         </p>
       </header>
     </div>
